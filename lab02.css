@@ -1,0 +1,45 @@
+body {
+font-family: Helvetica, Verdana, sans-serif;
+background-color: #939396;
+background-image: "cse326bg".jpg;
+background-repeat: no-repeat;
+background-position: top right;
+}
+h3 {
+font-size: 40pt;
+color: #F7931E;
+text-shadow: 3px 3px gray;
+}
+p {
+font-weight: bold;
+font-size: 70%;
+text-transform: capitalize;
+background-color: #939396;
+}
+first-letter {
+font-weight: bold;
+font-size: 150%;
+}
+dl {
+display: 
+}
+text
+}
+blockquote {
+color: #D1DFEB;
+text-align: left;
+}
+a {
+color: #FF4F4F;
+}
+a:hover {
+text-decoration: underline;
+}
+table, th, tr, td {
+border-style: dotted;
+}
+img {
+outline-style: ridge;
+outline-color: #F7931E;
+outline-width: medium;
+}
